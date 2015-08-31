@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+I can start tracking the changes. But no commit is done yet. I need to do it to make the folder a repository by creationg the .git file.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's a concept created to allow to put together whichever files you want to be part of the same commit.
