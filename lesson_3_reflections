@@ -10,3 +10,17 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I might have made uncommitted changes to my local files.
 I want to be able to keep track of everything that's happening
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork clones directly on github and allows to recognize previous work by other people. i'd use it when i want to build on that previous work without modifying the original
+
+Clone copies from online to local or local to local. 
+
+Branch allows to work from a specific commit and experiment.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows to compare the files on my computer with those on the internet, especially if some changes have been made by other people.
